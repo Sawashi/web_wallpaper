@@ -1,1 +1,1 @@
-window.alert("ok nha");
+console.log("hello world");
